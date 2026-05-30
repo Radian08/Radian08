@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Radian08&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Learning+to+code,+one+line+at+a+time&descAlignY=58&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8,&height=220&section=header&text=Radian08&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Learning+to+code,+one+line+at+a+time+%F0%9F%87%AE%F0%9F%87%A9&descAlignY=58&descSize=20&fontColor=ffffff)
 
 # 💫 About Me:
 
@@ -92,6 +92,6 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8,&height=120&section=footer)
 
 <!-- Proudly created with help from Claude AI -->
