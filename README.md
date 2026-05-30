@@ -1,18 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Radian08&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Learning+to+code,+one+line+at+a+time+🇮🇩&descAlignY=58&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Radian08&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Learning+to+code,+one+line+at+a+time&descAlignY=58&descSize=20)
 
 # 💫 About Me:
 
-🔭 Membangun fondasi coding yang kuat dengan Python, JavaScript, dan HTML/CSS — satu project kecil dalam satu waktu!
+🔭 Membangun fondasi coding yang kuat dengan Python, JavaScript, dan HTML/CSS. satu project kecil dalam satu waktu!
 
-👯 Terbuka untuk kolaborasi project pemula — web app sederhana, script Python, atau apapun yang bisa kita bangun bareng!
+👯 Terbuka untuk kolaborasi project pemula. web app sederhana, script Python, atau apapun yang bisa kita bangun bareng!
 
 🤝 Lagi cari insight soal best practices di Python & JavaScript, dan cara berpikir seperti developer beneran
 
-🌱 Eksplor banyak bahasa: Python · JavaScript · HTML/CSS · PHP · Java · C/C++ — pelan tapi konsisten!
+🌱 Eksplor banyak bahasa: Python · JavaScript · HTML/CSS · PHP · Java · C/C++. pelan tapi konsisten!
 
-💬 Tanya aja soal perjalanan belajar coding dari nol — masih proses, tapi happy to share!
+💬 Tanya aja soal perjalanan belajar coding dari nol. masih proses, tapi happy to share!
 
-⚡ Fun fact: Lagi belajar 6 bahasa pemrograman sekaligus — bukan ambisius, semua nya terlihat menarik! 😄
+⚡ Fun fact: Lagi belajar 6 bahasa pemrograman sekaligus. bukan ambisius, semua nya terlihat menarik! 😄
 
 ---
 
