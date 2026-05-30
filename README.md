@@ -8,7 +8,7 @@
 
 🤝 Lagi cari insight soal best practices di Python & JavaScript, dan cara berpikir seperti developer beneran
 
-🌱 Eksplor banyak bahasa: Python · JavaScript · HTML/CSS · PHP · Java · C/C++ — pelan tapi konsisten! 🇮🇩
+🌱 Eksplor banyak bahasa: Python · JavaScript · HTML/CSS · PHP · Java · C/C++ — pelan tapi konsisten!
 
 💬 Tanya aja soal perjalanan belajar coding dari nol — masih proses, tapi happy to share!
 
